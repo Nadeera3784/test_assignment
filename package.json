@@ -1,0 +1,21 @@
+{
+  "name": "test_assignment",
+  "version": "1.0.0",
+  "description": "assigment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "nadeera",
+  "license": "MIT",
+  "dependencies": {
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.25.6"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^6.5.2"
+  }
+}
